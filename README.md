@@ -11,8 +11,7 @@ This github repository has the server.R and ui.R files.
  
 The application is available here: https://razayu.shinyapps.io/course9shiny/
 
-The presentation using RStudion Presenter is available here: http://raencinas.github.io/data_products_slidify/index
+The presentation using RStudion Presenter is available here: http://rpubs.com/razayu/146048
 
-Files for the presentation are avalilable on the GitHub: https://github.com/raencinas/dataproducts
 
 
